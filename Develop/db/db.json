@@ -1,1 +1,16 @@
-[{"title":"Test Title","text":"Test text"}]
+[
+  {
+    "title": "Test Title",
+    "text": "Test text"
+  },
+  {
+    "title": "New Note",
+    "text": "This homework was hard",
+    "id": "723db42e-b083-45e3-ad9e-e5b01e12c90a"
+  },
+  {
+    "title": "Homework",
+    "text": "Why do I have more grey hair after this homework?",
+    "id": "bbbc51eb-c533-499d-bc93-2126527fe589"
+  }
+]
