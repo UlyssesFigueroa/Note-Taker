@@ -4,18 +4,8 @@
     "text": "Test text"
   },
   {
-    "title": "New Note",
-    "text": "This homework was hard",
-    "id": "723db42e-b083-45e3-ad9e-e5b01e12c90a"
-  },
-  {
-    "title": "Homework",
-    "text": "Why do I have more grey hair after this homework?",
-    "id": "bbbc51eb-c533-499d-bc93-2126527fe589"
-  },
-  {
-    "title": "new note2",
-    "text": "testing",
-    "id": "d82d8771-8175-4d84-927d-15581c7e692f"
+    "title": "Note Title",
+    "text": "Note Subject",
+    "id": "2ce8e8a3-346e-4923-a10b-48014b056729"
   }
 ]
